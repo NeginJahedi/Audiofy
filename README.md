@@ -21,7 +21,6 @@ This is Audiofy, a command line program for converting books to audiobooks using
 - [Limitations](#limitations)
 - [Future Improvements](#future-improvements)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ---
 
