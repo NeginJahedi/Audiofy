@@ -1,0 +1,3 @@
+This is a short book.
+It has no chapters at all.
+It's just text from start to finish.
