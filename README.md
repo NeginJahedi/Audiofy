@@ -1,5 +1,8 @@
 # Audiofy
-#### [Video Demo](https://youtu.be/jBPI25KvD6U)
+#### [Watch Video Demo On Youtube](https://youtu.be/jBPI25KvD6U)
+
+![Project Demo](Audiofy-demo.gif)
+
 #### Short Description:
 This is Audiofy, a command line program for converting books to audiobooks using Microsoft's Edge-TTS library.
 
